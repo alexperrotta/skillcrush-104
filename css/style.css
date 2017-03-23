@@ -4389,3 +4389,23 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+/*Alex Perrotta's Styles*/
+
+.alexperrotta-advice {
+	font-family: 'Arial', sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	background-color: #FF1493;
+	color: #FF4500;
+}
+.alexperrotta-advice h1 span{
+	color: #FF4500;
+	font-style: italic;
+}
+.alexperrotta-advice h4 {
+	font-size: 1.5em;
+	color: #FF4500;
+} 
+
+/*End Alex Perrotta's Styles*/
